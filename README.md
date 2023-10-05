@@ -1,2 +1,1 @@
-
-Me levanto, tomo café, escribo código, tomo café, escribo código, como, me acuesto y al otro día, vuelvo empezar. Básicamente soy una máquina que transforma el café y las ideas en código entendible por las computadoras.
+I get up, drink coffee, write code, drink coffee, write code, eat, go to bed and the next day, I start again. Basically I am a machine that transforms coffee and ideas into code understandable by computers.
